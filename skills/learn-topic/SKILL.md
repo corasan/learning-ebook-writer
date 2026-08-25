@@ -88,8 +88,7 @@ Before delivering the final book, re-check it against its own claims:
 
 A book full of AI writing tells undermines the whole point of this skill: plain, trustworthy explanation. Before final assembly, run every chapter's prose through an unslop pass.
 
-- The `unslop` skill is available at `skills/unslop/SKILL.md` in this repo.
-- If it isn't available, apply the same idea directly: reread every chapter asking "what makes this obviously AI-written?" Cut significance inflation ("pivotal", "testament to"), stock AI vocabulary ("delve", "underscore", "landscape"), em dashes, title-case headings, bold-label-and-colon list items, chatbot filler ("I hope this helps!"), and hedging piled on hedging. Vary sentence rhythm, use active voice, and let the writer have an actual point of view on the material instead of a neutral, hedge-everything tone.
+- Run the `unslop` skill, available at `skills/unslop/SKILL.md` in this repo.
 
 ## Step 6: Assemble and deliver
 

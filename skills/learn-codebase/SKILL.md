@@ -1,9 +1,9 @@
 ---
-name: codebase-explainer
-description: Turn an unfamiliar codebase into a full onboarding "book" that covers what it does, how it's organized, how data flows through it, and the concepts behind its design choices, grounded entirely in what's in the repo, never guessed. Use this whenever the user asks to "explain this codebase," "help me understand this repo," "onboard me onto X," "how does this project work," or wants a real architectural map instead of a file-by-file summary. Companion skill to learning-topic, same book format and writing rules, different research method (reading real code instead of external sources).
+name: learn-codebase
+description: Turn an unfamiliar codebase into a full onboarding "book" that covers what it does, how it's organized, how data flows through it, and the concepts behind its design choices, grounded entirely in what's in the repo, never guessed. Use this whenever the user asks to "explain this codebase," "help me understand this repo," "onboard me onto X," "how does this project work," or wants a real architectural map instead of a file-by-file summary. Companion skill to learn-topic, same book format and writing rules, different research method (reading real code instead of external sources).
 ---
 
-# Codebase Explainer
+# Learn Codebase
 
 This skill turns a codebase into and onboarding document. It shares its book format, writing style, and unslop pass with `learn-topic`. What's different is Step 1: no web research and every claim has to be checked against real files.
 

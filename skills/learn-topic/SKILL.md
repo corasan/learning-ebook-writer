@@ -1,9 +1,9 @@
 ---
-name: learning-ebook-writer
+name: learn-topic
 description: Write a complete, researched "teach me from zero" ebook on any topic, in the style of technical books like *The Rust Programming Language*. Friendly, progressive, concept-first, and never condescending. Use this whenever the user asks to "make an ebook to learn X," "write a book that teaches me X from scratch," "explain X like the official docs don't," or wants a long-form, structured, plain-language learning resource instead of a quick chat answer. Especially valuable for topics with bad or scattered official documentation, or topics that mix a specific tool with deeper underlying concepts (a framework built on a language, a library built on math or CS or ML ideas, and so on). Trigger even if the user just says "help me really learn X" or "I want a guide, not a cheat sheet."
 ---
 
-# Learning Ebook Writer
+# Learn Topic
 
 This skill turns a topic into a full ebook that takes a reader from "knows nothing about this" to "genuinely understands it," the way a well-written technical book does and the way official docs and blog posts don't. Subject agnostic.
 

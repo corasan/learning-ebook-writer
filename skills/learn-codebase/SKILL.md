@@ -79,7 +79,7 @@ Same rules as learn-topic: plain language always, define jargon the moment it's 
 
 ## Step 5.5: Run an unslop pass
 
-Same as learn-topic: before final assembly, run every chapter through the `unslop` skill.
+Same as learn-topic: before final assembly, run every chapter through the `unslop` skill if it's available in your environment (it ships alongside this one at `skills/unslop/SKILL.md` in this repo, or install standalone via `npx skills add https://github.com/cursor/plugins --skill unslop`). If it isn't available, reread each chapter for AI writing tells (significance inflation, stock AI vocabulary, em dashes, chatbot filler, hedge-on-hedge phrasing) and fix them by hand.
 
 ## Step 6: Assemble and deliver
 

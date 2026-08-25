@@ -16,13 +16,13 @@ Works with Claude Code, Codex, Cursor, and 70+ other agents via [`skills`](https
 ## Install
 
 ```bash
-npx skills add <your-username>/learning-ebook-writer
+npx skills add corasan/learning-ebook-writer
 ```
 
 ## Use without installing
 
 ```bash
-npx skills use <your-username>/learning-ebook-writer | claude
+npx skills use corasan/learning-ebook-writer | claude
 ```
 
 ## License

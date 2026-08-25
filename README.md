@@ -19,12 +19,6 @@ Works with Claude Code, Codex, Cursor, and 70+ other agents via [`skills`](https
 npx skills add corasan/learning-ebook-writer
 ```
 
-## Use without installing
-
-```bash
-npx skills use corasan/learning-ebook-writer | claude
-```
-
 ## License
 
 MIT. See [LICENSE](./LICENSE).

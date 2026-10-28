@@ -1,0 +1,12 @@
+{
+  "name": "learning-ebook-writer",
+  "description": "Write a researched \"teach me from zero\" ebook on any topic (learn-topic) or an onboarding book for an unfamiliar codebase (learn-codebase).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Henry Paulino"
+  },
+  "homepage": "https://github.com/corasan/learning-ebook-writer",
+  "repository": "https://github.com/corasan/learning-ebook-writer",
+  "license": "MIT",
+  "keywords": ["learning", "ebook", "mdbook", "onboarding", "documentation"]
+}

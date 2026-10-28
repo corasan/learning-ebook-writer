@@ -1,0 +1,24 @@
+{
+  "name": "learning-ebook-writer",
+  "owner": {
+    "name": "Henry Paulino"
+  },
+  "metadata": {
+    "description": "Skills that turn a topic or a codebase into a researched, mdBook-style ebook that teaches you from zero."
+  },
+  "plugins": [
+    {
+      "name": "learning-ebook-writer",
+      "source": "./",
+      "description": "Write a researched \"teach me from zero\" ebook on any topic (learn-topic) or an onboarding book for an unfamiliar codebase (learn-codebase).",
+      "keywords": [
+        "learning",
+        "ebook",
+        "mdbook",
+        "onboarding",
+        "documentation"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

@@ -22,6 +22,19 @@ Both skills run every chapter through [`unslop`](./skills/unslop/SKILL.md) befor
 
 ## Install
 
+### Claude Code plugin marketplace
+
+This repo is a Claude Code plugin marketplace. Inside Claude Code, add the marketplace and install the plugin:
+
+```
+/plugin marketplace add corasan/learning-ebook-writer
+/plugin install learning-ebook-writer@learning-ebook-writer
+```
+
+The skills are then available as `/learning-ebook-writer:learn-topic` and `/learning-ebook-writer:learn-codebase`, and Claude also picks them up on its own when a request matches.
+
+### Other agents
+
 ```bash
 npx skills add corasan/learning-ebook-writer
 ```
